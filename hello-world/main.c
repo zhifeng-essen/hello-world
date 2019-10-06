@@ -10,8 +10,8 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("hello, Mac");
-    printf("hello, xcode");
+    printf("hello, Mac!\n");
+    printf("hello, xcode!\n");
     printf("Hello, World!\n");
     return 0;
 }

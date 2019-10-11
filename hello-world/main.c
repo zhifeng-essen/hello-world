@@ -10,6 +10,7 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
+    printf("today is 10.11\n");
     printf("hello, Mac!\n");
     printf("hello, xcode!\n");
     printf("Hello, World!\n");
